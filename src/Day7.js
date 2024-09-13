@@ -9,8 +9,8 @@ const Day7 = () => {
   const [posts, setPosts] = useState([]);
   const [newPost, setNewPost] = useState("");
   const [loginData, setLoginData] = useState({
-    email: "olay1@gmail.com",
-    password: "12345",
+    email: "amone@gmail.com",
+    password: "12345678",
   });
   const [signupData, setSignupData] = useState({
     first_name: "",

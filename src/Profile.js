@@ -23,15 +23,7 @@ const Profile = () => {
   return (
     <div className="container">
       <div className="box1">
-        <p>
-          <img
-            className="flag-image"
-            src="/laos-flag-pole-animated.gif"
-            width="100"
-            height="100"
-            alt="My picture"
-          ></img>
-        </p>
+
         <h1> My profile</h1>
         <img
           className="profile-image"
